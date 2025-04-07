@@ -1,2 +1,7 @@
 This is file 1 edited by yuji.
+<<<<<<< Updated upstream
 This is file 2 line 2 edited by yuji first and now reji.
+=======
+ This is file 2 line 2 edited by yuji.
+ This is 3rd line edited by yuji.
+>>>>>>> Stashed changes
