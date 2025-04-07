@@ -1,2 +1,2 @@
 This is file 1 edited by yuji.
-This is file 2 line 2 edited by yuji.
+ This is file 2 line 2 edited by yuji.
